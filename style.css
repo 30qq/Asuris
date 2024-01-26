@@ -382,9 +382,11 @@ footer {
     background-position:50% 10%;
     border-radius: 1000px;
     width: 209px;
-    height: 209px;
+    height: 210px;
 }
 
 .galery-items p {
     position: absolute;
+    width: 209px;
+    height: 210px;
 }
