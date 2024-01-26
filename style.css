@@ -146,10 +146,6 @@ nav ul li {
 
 }
 
-.medium-text {
-    /* не знаю зачем это, должен был быть контейнером */
-}
-
 
 .medium-glav {
     color: #000;
@@ -334,20 +330,12 @@ footer {
 }
 
 
-.galery-items{
-
-}
 
 .galery-items-eclips {
     fill: #A4A4A4;
     position: absolute;
     z-index: +1;
 }
-
-.galery-items-eclips:first-child{
-    top: 38px;
-}
-
 
 .galery-items-recta{
     top:38px;
@@ -358,7 +346,26 @@ footer {
     background: #b6b6b6;
 }
 
-.galery-p{
+.galery-items-eclips1{
+    top: 38px;
+    position: absolute;
+    background-image: url("images/ellipse-2.png");
+    background-color: #A4A4A4;
+    background-position:50% 10%;
+    border-radius: 1000px;
+    width: 209px;
+    height: 209px;
+}
+
+.galery-items-eclips2 {
+
+}
+
+.galery-items-eclips3{
+
+}
+
+.galery-items-eclips4{
 
 }
 
