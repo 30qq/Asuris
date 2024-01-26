@@ -331,11 +331,11 @@ footer {
 
 
 
-.galery-items-eclips {
+/* .galery-items-eclips {
     fill: #A4A4A4;
     position: absolute;
     z-index: +1;
-}
+} */
 
 .galery-items-recta{
     top:38px;
@@ -358,15 +358,36 @@ footer {
 }
 
 .galery-items-eclips2 {
-
+    top: 38px;
+    position: absolute;
+    background-image: url("images/ellipse-2.png");
+    background-color: #A4A4A4;
+    background-position:50% 10%;
+    border-radius: 1000px;
+    width: 209px;
+    height: 209px;
 }
 
 .galery-items-eclips3{
-
+    top: 38px;
+    position: absolute;
+    background-image: url("images/ellipse-2.png");
+    background-color: #A4A4A4;
+    background-position:50% 10%;
+    border-radius: 1000px;
+    width: 209px;
+    height: 209px;
 }
 
 .galery-items-eclips4{
-
+    top: 38px;
+    position: absolute;
+    background-image: url("images/ellipse-2.png");
+    background-color: #A4A4A4;
+    background-position:50% 10%;
+    border-radius: 1000px;
+    width: 209px;
+    height: 209px;
 }
 
 .galery-items p {
