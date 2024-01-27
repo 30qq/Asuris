@@ -342,8 +342,8 @@ footer {
 .galery-items-eclips1{
     top: 38px;
     position: absolute;
-    background-image: url("images/lesha1.jpg");
-    background-size: 220px;
+    background-image: url("images/ellipse-2.png");
+    background-size: 290px;
     background-color: #A4A4A4;
     background-position:50% 10%;
     border-radius: 1000px;
@@ -365,7 +365,7 @@ footer {
 .galery-items-eclips3{
     top: 38px;
     position: absolute;
-    background-image: url("images/lenya2.jpg");
+    background-image: url("images/ellipse-2.png");
     background-size: 220px;
     background-color: #A4A4A4;
     background-position:50% 10%;
@@ -378,6 +378,7 @@ footer {
     top: 38px;
     position: absolute;
     background-image: url("images/ellipse-2.png");
+    background-size: 290px;
     background-color: #A4A4A4;
     background-position:50% 10%;
     border-radius: 1000px;
